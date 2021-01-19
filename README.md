@@ -34,7 +34,8 @@ Important guidelines for project management:
 2. Copy "Online News Portal" folder and paste it into your localhost folder.
 3. "Online News Portal/Public/Homepage.php" This is the first homepage for public.
 4. Email: admin@gmail.com
-   	Password: @admin123   
+   
+   Password: @admin123   
 		This is the email and password for administrator.
 		Administrator can change his password after log in.
 		After log in as a administrator he can manage admin panel.
