@@ -14,8 +14,7 @@ and important news for all viewers.
 well as delete and update news.
 
 <b>Project Description:</b>
-The system that is going to be developed is Online News Portal System. This is a database
-application system that is to be used by the public to read and search news in anytime and
+This is a database application system that is to be used by the public to read and search news in anytime and
 anywhere. The system keeps the record of all the admin, authenticated viewer. This system
 also has the ability to keep track of the news as well as comment record. This project intends to
 computerize online news portal system in order to provide the instant and important news and
@@ -29,11 +28,11 @@ maintenance.
 2. Admin Panel: Has full privilege on the news and comments functions.
 3. Authenticated Viewers: Has privilege in own comments function.
 
-<b>Technology:</b>
-1. Programming Languages : JavaScript.
-2. Website Frontend Design : HTML5, CSS, Boostrap4.
-4. Scripting Language : PHP.
+<b>Language:</b>
+1. Website Frontend Design : HTML5, CSS, Boostrap4, JavaScript.
+2. Scripting Language : PHP.
 3. Database : MySQL.
+4. Server: Apache.
 
 <b>Important guidelines for project management:</b>
 1. Unzip "Online News Portal.zip" file.
