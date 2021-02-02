@@ -29,7 +29,7 @@ maintenance.
 3. Authenticated Viewers: Has privilege in own comments function.
 
 <b>Language:</b>
-1. Website Frontend Design : HTML5, CSS, Boostrap4, JavaScript.
+1. Frontend Design : HTML5, CSS, Boostrap4, JavaScript.
 2. Scripting Language : PHP.
 3. Database : MySQL.
 4. Server: Apache.
