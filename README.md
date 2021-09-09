@@ -68,21 +68,21 @@ This is a database application system that is to be used by the public to read a
 
 <h3>Processes</h3>
 <ul>
-<li><b>Login: </b>The system provides security features through username-password matching where only authorized user can access the system with different authorization level. This system has three authorization level. Administrator, Admin Panel and Viewer.
+<li><b>Login: </b>The system provides security features through username-password matching where only authorized user can access the system with different authorization level. This system has three authorization level. Administrator, Admin Panel and Viewer.<br>
 <img src="Screenshots of the output interface/Log In page of Administrator.png" width="300" height="300"><figcaption>Log In page of Administrator</figcaption>
 <img src="Screenshots of the output interface/Log In page of Admin Panel.png" width="300" height="300"><figcaption>Log In page of Admin Panel</figcaption>
 <img src="Screenshots of the output interface/Log In page of Viewers.png" width="300" height="300"><figcaption>Log In page of Viewers</figcaption>
 
 </li>
-<li><b>Viewer Profile Registration: </b>This system allows to register as viewer to read as well as comment on news.
+<li><b>Viewer Profile Registration: </b>This system allows to register as viewer to read as well as comment on news.<br>
 </li>
-<li><b>News Management: </b>The admin panel can manage the news to add, update, delete news through this system. Each process or work-flow can be traced from the database. The admin panel can also control the comments on news through this system.
+<li><b>News Management: </b>The admin panel can manage the news to add, update, delete news through this system. Each process or work-flow can be traced from the database. The admin panel can also control the comments on news through this system.<br>
 </li>
-<li><b>Admin Panel Management: </b>The records of all admin panel and viewers are kept in one centralized database. The record of admin panel is maintained by the administrator through this system.
+<li><b>Admin Panel Management: </b>The records of all admin panel and viewers are kept in one centralized database. The record of admin panel is maintained by the administrator through this system.<br>
 </li>
-<li><b>Search: </b>All users can search with any key value for the news through this system. Also users can search with news category, reporter name, date, time etc.
+<li><b>Search: </b>All users can search with any key value for the news through this system. Also users can search with news category, reporter name, date, time etc.<br>
 </li>
-<li><b>Single Page News View Module: </b>Users can view a specific news in a single page through this system.
+<li><b>Single Page News View Module: </b>Users can view a specific news in a single page through this system.<br>
 </li>
 </ul>
 
