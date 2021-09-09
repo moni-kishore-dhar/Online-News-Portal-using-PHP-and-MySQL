@@ -74,11 +74,14 @@ This is a database application system that is to be used by the public to read a
 </pre>
 </li>
 <li><b>Viewer Profile Registration: </b>This system allows to register as viewer to read as well as comment on news.<br>
-<pre>Viewer Registration Page           Viewer Comment Box
+<pre>Viewer Registration Page          Viewer Comment Box
 <img src="Screenshots of the output interface/Viewer Registration Page.png" width="210" height="210">     <img src="Screenshots of the output interface/Viewer Comment Box.png" width="210" height="210">
 </pre>
 </li>
 <li><b>News Management: </b>The admin panel can manage the news to add, update, delete news through this system. Each process or work-flow can be traced from the database. The admin panel can also control the comments on news through this system.<br>
+<pre>News management Functions         Admin Comment Box
+<img src="Screenshots of the output interface/News management Functions.png" width="210" height="210">     <img src="Screenshots of the output interface/Admin Comment Box.png" width="210" height="210">
+</pre>
 </li>
 <li><b>Admin Panel Management: </b>The records of all admin panel and viewers are kept in one centralized database. The record of admin panel is maintained by the administrator through this system.<br>
 </li>
