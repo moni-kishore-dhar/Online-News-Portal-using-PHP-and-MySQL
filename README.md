@@ -3,15 +3,18 @@
 The purpose of the online news portal is to give the public the opportunity to read and search
 up-to-date news, as well as to give authenticated users the opportunity to comment on specific
 news.
+<br>
 
 <h3>Project Goals and Objectives:</h3>
-1. To provide immediate storage and retrieval of data and information to get all kinds of instant
-and important news for all viewers.
-2. To provide a free text search function facility for all news seeker.
-3. To provide a secure account management function for admin and viewers.
-4. To allow authenticated viewers to comment on specific news.
-5. To provide an efficient news management functions to the admin panel to publish news as
-well as delete and update news.
+<ul>
+<li>To provide immediate storage and retrieval of data and information to get all kinds of instant
+and important news for all viewers.</li><br>
+<li>To provide a free text search function facility for all news seeker.</li><br>
+<li>To provide a secure account management function for admin and viewers.</li><br>
+<li>To allow authenticated viewers to comment on specific news.</li><br>
+<li>To provide an efficient news management functions to the admin panel to publish news as well as delete and update news.</li><br>
+</ul>
+<br>
 
 <h3>Project Description:</h3>
 This is a database application system that is to be used by the public to read and search news in anytime and
@@ -21,26 +24,40 @@ computerize online news portal system in order to provide the instant and import
 also to provide searching facility due to the grown size of records of news. As well as this
 project have the intention to publish all kinds of important and breaking news in order to expose
 the truth to everyone due to the grown size of fake and biased newspaper.
+<br>
 
 <h3>System Users:</h3>
 1. Administrator: Has full privilege on the system's functions including admin panel
 maintenance.
 2. Admin Panel: Has full privilege on the news and comments functions.
 3. Authenticated Viewers: Has privilege in own comments function.
+<br>
 
 <h3>Language:</h3>
 1. Frontend Design : HTML5, CSS, Boostrap4, JavaScript.
 2. Scripting Language : PHP.
 3. Database : MySQL.
 4. Server: Apache.
+<br>
 
 <h3>Important guidelines for project management:</h3>
-1. Unzip "Online News Portal.zip" file.
-2. Copy "Online News Portal" folder and paste it into your localhost folder.
-3. "Online News Portal/Public/Homepage.php" This is the first homepage for public.
-4. <font size="100">Email: admin@gmail.com<br>
-   Password: @admin123<br></font>
-   This is the email and password for administrator.<br>
-   Administrator can change his password after log in.<br>
-   After log in as a administrator he can manage admin panel.
-5. Given sql file has to be import in localhost and it must be named "online news portal" when importing.
+
+<ul>
+<li>Unzip "Online News Portal.zip" file.</li><br>
+<li>Copy "Online News Portal" folder and paste it into your localhost folder.</li><br>
+<li>"Online News Portal/Public/Homepage.php" This is the first homepage for public.</li><br>
+<li><b>Email: admin@gmail.com<br>Password: @admin123<br></b>
+	<ul>
+ 	<li>This is the email and password for administrator.</li>
+ 	<li>Administrator can change his password after log in.</li>
+ 	<li>After log in as a administrator he can manage admin panel.</li>
+  	</ul>
+</li><br>
+<li>Given sql file has to be import in localhost and it must be named "online news portal" when importing.</li><br>
+</ul>
+
+
+
+
+
+<br>
