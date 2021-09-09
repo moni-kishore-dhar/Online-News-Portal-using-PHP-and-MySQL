@@ -51,6 +51,23 @@ This is a database application system that is to be used by the public to read a
 
 
 
+
+<h3>ER Diagram:</h3>
+<ul>
+<li>A complete ER Diagram for the system:</li>
+</ul>
+<img src="ER Diagram.png" width="1000" height="1000">
+<figcaption>ER Diagram</figcaption>
+<br>
+
+
+
+
+
+
+
+
+
 <h3>Important guidelines for project management:</h3>
 <ul>
 <li>Unzip "Online News Portal.zip" file.</li>
