@@ -29,9 +29,9 @@ This is a database application system that is to be used by the public to read a
 
 
 <ul>
-<li>Administrator: Has full privilege on the system's functions including admin panel maintenance.</li>
-<li>Admin Panel: Has full privilege on the news and comments functions.</li>
-<li>Authenticated Viewers: Has privilege in own comments function.</li>
+<li><b>Administrator:</b> Has full privilege on the system's functions including admin panel maintenance.</li>
+<li><b>Admin Panel:</b> Has full privilege on the news and comments functions.</li>
+<li><b>Authenticated Viewers:</b> Has privilege in own comments function.</li>
 </ul>
 
 
@@ -40,10 +40,10 @@ This is a database application system that is to be used by the public to read a
 
 <h3>Language:</h3>
 <ul>
-<li>Frontend Design : HTML5, CSS, Boostrap4, JavaScript.</li>
-<li>Scripting Language : PHP.</li>
-<li>Database : MySQL.</li>
-<li>Server: Apache.</li>
+<li><b>Frontend Design:</b> HTML5, CSS, Boostrap4, JavaScript.</li>
+<li><b>Scripting Language:</b> PHP.</li>
+<li><b>Database:</b> MySQL.</li>
+<li><b>Server:</b> Apache.</li>
 </ul>
 
 
