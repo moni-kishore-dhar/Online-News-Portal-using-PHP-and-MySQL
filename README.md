@@ -69,9 +69,9 @@ This is a database application system that is to be used by the public to read a
 <h3>Processes</h3>
 <ul>
 <li><b>Login: </b>The system provides security features through username-password matching where only authorized user can access the system with different authorization level. This system has three authorization level. Administrator, Admin Panel and Viewer.<br>
-<img src="Screenshots of the output interface/Log In page of Administrator.png" width="300" height="300"><figcaption>Log In page of Administrator</figcaption>
-<img src="Screenshots of the output interface/Log In page of Admin Panel.png" width="300" height="300"><figcaption>Log In page of Admin Panel</figcaption>
-<img src="Screenshots of the output interface/Log In page of Viewers.png" width="300" height="300"><figcaption>Log In page of Viewers</figcaption>
+<img src="Screenshots of the output interface/Log In page of Administrator.png" width="300" height="300">
+<img src="Screenshots of the output interface/Log In page of Admin Panel.png" width="300" height="300">
+<img src="Screenshots of the output interface/Log In page of Viewers.png" width="300" height="300">
 
 </li>
 <li><b>Viewer Profile Registration: </b>This system allows to register as viewer to read as well as comment on news.<br>
