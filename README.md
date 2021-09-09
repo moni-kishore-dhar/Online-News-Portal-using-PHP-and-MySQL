@@ -74,7 +74,7 @@ This is a database application system that is to be used by the public to read a
 </pre>
 </li>
 <li><b>Viewer Profile Registration: </b>This system allows to register as viewer to read as well as comment on news.<br>
-<pre>Viewer Registration Page        Viewer Comment Box
+<pre>Viewer Registration Page         Viewer Comment Box
 <img src="Screenshots of the output interface/Viewer Registration Page.png" width="210" height="210">     <img src="Screenshots of the output interface/Viewer Comment Box.png" width="210" height="210">
 </pre>
 </li>
