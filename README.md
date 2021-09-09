@@ -15,7 +15,7 @@ and important news for all viewers.</li>
 <li>To allow authenticated viewers to comment on specific news.</li>
 <li>To provide an efficient news management functions to the admin panel to publish news as well as delete and update news.</li>
 </ul>
-<br>
+
 
 
 <h3>Project Description:</h3>
@@ -33,7 +33,7 @@ This is a database application system that is to be used by the public to read a
 <li>Admin Panel: Has full privilege on the news and comments functions.</li>
 <li>Authenticated Viewers: Has privilege in own comments function.</li>
 </ul>
-<br>
+
 
 
 
@@ -45,7 +45,7 @@ This is a database application system that is to be used by the public to read a
 <li>Database : MySQL.</li>
 <li>Server: Apache.</li>
 </ul>
-<br>
+
 
 
 
