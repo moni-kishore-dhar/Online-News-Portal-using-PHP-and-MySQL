@@ -68,8 +68,8 @@ This is a database application system that is to be used by the public to read a
 
 <h3>Processes</h3>
 <ul>
-<li><b>Login: </b>The system provides security features through username-password matching where only authorized user can access the system with different authorization level. This system has three authorization level. Administrator, Admin Panel and Viewer.<br>
-<pre>Log In page of administrator    Log In page of Admin Panel    Log In page of Viewers
+<li><b>Login: </b>The system provides security features through username-password matching where only authorized user can access the system with different authorization level. This system has three authorization level. Administrator, Admin Panel and Viewer.<br><br>
+<pre>Log In page of administrator    Log In page of Admin Panel     Log In page of Viewers
 <img src="Screenshots of the output interface/Log In page of Administrator.png" width="200" height="200">     <img src="Screenshots of the output interface/Log In page of Admin Panel.png" width="200" height="200">    <img src="Screenshots of the output interface/Log In page of Viewers.png" width="200" height="200">
 </pre>
 </li>
